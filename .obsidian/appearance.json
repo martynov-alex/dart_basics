@@ -1,0 +1,10 @@
+{
+  "accentColor": "#164cca",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

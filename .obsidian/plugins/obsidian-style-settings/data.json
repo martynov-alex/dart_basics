@@ -1,0 +1,6 @@
+{
+  "sanctum@@syntax-highlighting": "one-dark",
+  "sanctum@@code-label": true,
+  "sanctum@@code-lines": false,
+  "sanctum@@code-normal-inline@@light": "#00000000"
+}
