@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Глава 4. Объектно-ориентированное программирование/4.11. Generics (Обобщения).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Глава 4. Объектно-ориентированное программирование/4.11. Generics (Обобщения).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Глава 4. Объектно-ориентированное программирование/4.11. Generics (Обобщения).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Глава 4. Объектно-ориентированное программирование/4.11. Generics (Обобщения).md"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "e89d3dea9828adf6",
   "lastOpenFiles": [
-    "Файлы/Pasted image 20231209180013.png",
     "README.md",
     "Глава 4. Объектно-ориентированное программирование/4.11. Generics (Обобщения).md",
+    "Файлы/Pasted image 20231209180013.png",
     "Файлы/Pasted image 20231209171725.png",
     "Файлы",
     "Глава 4. Объектно-ориентированное программирование/Без названия.md",

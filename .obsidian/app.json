@@ -2,5 +2,7 @@
   "useTab": false,
   "tabSize": 2,
   "showInlineTitle": true,
-  "attachmentFolderPath": "./Файлы"
+  "attachmentFolderPath": "./Файлы",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest"
 }
